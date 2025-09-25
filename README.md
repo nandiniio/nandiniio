@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandiniio
 - 👀 I’m interested in learning new things and reading.
-- 🌱 I’m currently in my first year of college and am trying to learn different coding languages. 
+- 🌱 I’m currently learning Java. 
 - 😄 Pronouns: she/her
 
 <!---
