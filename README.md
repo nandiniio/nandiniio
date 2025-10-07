@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nandiniio
-- 👀 I’m interested in learning new things and reading.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Java. 
 - 😄 Pronouns: she/her
 
