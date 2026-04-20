@@ -10,7 +10,7 @@ Hi, I'm Nandini 👋
 
  💻 Tech Stack
 
-* Java, Python, JavaScript
+* Java, C, JavaScript
 * React, Node.js
 * Git, VS Code
 
