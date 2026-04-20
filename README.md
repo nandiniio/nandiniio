@@ -1,4 +1,5 @@
 Hi, I'm Nandini 👋
+
 🎓 Computer Science student
 💡 Interested in building practical, real-world applications
 
