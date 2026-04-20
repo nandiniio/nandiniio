@@ -12,7 +12,7 @@ Hi, I'm Nandini 👋
 
 * Java, C, JavaScript
 * React, Node.js
-* Git, VS Code
+* VS Code
 
  📌 Projects
 
